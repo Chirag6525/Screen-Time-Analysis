@@ -1,2 +1,8 @@
 # Screen-Time-Analysis
-Screen Time Analysis lets you know how much time you spend on what kind of applications and websites using your device. And screen time analysis gives a visual report of the same.
+Screen Time Analysis is the task of analyzing and creating a report on which applications and websites are used by the user for how much time.
+
+## Dataset
+    1. Date
+    2. Usage of Applications 
+    3. Number of Notifications from Applications 
+    4. Number of times apps opened
